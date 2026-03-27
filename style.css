@@ -1,0 +1,56 @@
+/* General body style */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f4f7fb;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Main container */
+.container {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Heading */
+h1 {
+    color: #2c3e50;
+    margin-bottom: 30px;
+}
+
+/* Search input */
+#searchInput {
+    width: 60%;
+    max-width: 400px;
+    padding: 12px 20px;
+    font-size: 18px;
+    border-radius: 25px;
+    border: 1px solid #ccc;
+    outline: none;
+    margin-bottom: 20px;
+}
+
+/* Message below input */
+#message {
+    color: #777;
+    margin-bottom: 20px;
+}
+
+/* Video container */
+#videoContainer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 30px;
+}
+
+/* Video styling */
+video {
+    width: 60%;
+    max-width: 600px;
+    border-radius: 15px;
+    display: none; /* hidden until a video is loaded */
+}

@@ -1,0 +1,17 @@
+[
+  {"phrase": "sit down", "video": "videos/sit_down.mp4"},
+  {"phrase": "stand up", "video": "videos/stand_up.mp4"},
+  {"phrase": "listen carefully", "video": "videos/listen_carefully.mp4"},
+  {"phrase": "open", "video": "videos/open.mp4"},
+  {"phrase": "close book", "video": "videos/close_book.mp4"},
+  {"phrase": "write this down", "video": "videos/write_this_down.mp4"},
+  {"phrase": "read aloud", "video": "videos/read_aloud.mp4"},
+  {"phrase": "good job", "video": "videos/good_job.mp4"},
+  {"phrase": "repeat after me", "video": "videos/repeat_after_me.mp4"},
+  {"phrase": "quiet please", "video": "videos/quiet_please.mp4"},
+  {"phrase": "hands up", "video": "videos/hands_up.mp4"},
+  {"phrase": "work in pairs", "video": "videos/work_in_pairs.mp4"},
+  {"phrase": "time's up", "video": "videos/times_up.mp4"},
+  {"phrase": "finish your work", "video": "videos/finish_your_work.mp4"},
+  {"phrase": "come here", "video": "videos/come_here.mp4"}
+]
