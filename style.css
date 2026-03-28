@@ -28,9 +28,13 @@ h1 {
     padding: 12px 20px;
     font-size: 18px;
     border-radius: 25px;
-    border: 1px solid #ccc;
+    border: 2px solid transparent;;
     outline: none;
     margin-bottom: 20px;
+     background-image: linear-gradient(white, white),
+                      linear-gradient(90deg, #4a90e2, #7ed957);
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
 }
 
 /* Message below input */
